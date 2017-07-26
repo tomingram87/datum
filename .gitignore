@@ -1,0 +1,6 @@
+*.o
+.flavor
+.objs
+datum.so
+assets.h
+cert
